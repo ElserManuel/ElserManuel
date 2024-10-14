@@ -8,7 +8,7 @@ name: Personal Commit
 on:
   push:
     branches:
-      - mai
+      - main
 
 jobs:
   commit:
