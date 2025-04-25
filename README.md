@@ -52,7 +52,7 @@ Soy apasionado por la tecnología, autodidacta por naturaleza, y creo firmemente
 ### 🔹 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular,vue,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,vue" />
 </p>
 
 ### 🔹 Bases de Datos
