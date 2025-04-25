@@ -85,7 +85,6 @@ Soy apasionado por la tecnología, autodidacta por naturaleza, y creo firmemente
 
 <p>
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Python%20Pandas-150458?style=for-the-badge&logo=python&logoColor=white" height="28"/>
 </p>
 
