@@ -46,7 +46,7 @@ Soy apasionado por la tecnología, autodidacta por naturaleza, y creo firmemente
 ### 🔹 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### 🔹 Frontend
